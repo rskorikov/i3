@@ -1,0 +1,7 @@
+    width = 300
+    height = 300
+    origin = top-right
+    offset = 10x50
+    font = "sans 10"
+    format = "%title\n%body"
+    icon = true
